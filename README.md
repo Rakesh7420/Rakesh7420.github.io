@@ -69,8 +69,8 @@
 | [![trophy](https://github-profile-trophy.vercel.app/?username=Rahulsomase)](https://github.com/RakeshGudur/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshGudur&layout=compact)](https://github.com/RakeshGudur/github-readme-stats) |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-| ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulsomase&show_icons=true&theme=dark) | ![Rakesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakeshGudur&theme=dark) |
-| :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakeshGudure&show_icons=true&theme=dark) | ![Rakesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakeshGudur&theme=dark) |
+| :-------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
 
 <br /><br />
 
