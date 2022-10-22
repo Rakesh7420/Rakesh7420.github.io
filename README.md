@@ -66,11 +66,11 @@
 
 ## 🎯Trophy & 📈Stats :
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=Rahulsomase)](https://github.com/Rahulsomase/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsomase&layout=compact)](https://github.com/Rahulsomase/github-readme-stats) |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=Rahulsomase)](https://github.com/RakeshGudur/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshGudur&layout=compact)](https://github.com/RakeshGudur/github-readme-stats) |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-| ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulsomase&show_icons=true&theme=dark) | ![Rahul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulsomase&theme=dark) |
-| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulsomase&show_icons=true&theme=dark) | ![Rakesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakeshGudur&theme=dark) |
+| :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
 
 <br /><br />
 
