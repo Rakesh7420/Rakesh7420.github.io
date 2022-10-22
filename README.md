@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Rahul Somase...
+    I'm Rakesh Gudur...
 </h1>                 
 <h2 align="center">
   💻 Software Developer
@@ -10,11 +10,11 @@
  <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rahul-somase-374519149/">
+  <a href="https://www.linkedin.com/in/rakesh-gudur-a73b59179/">
     <img src="https://img.shields.io/badge/Rahul Somase-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:rahulsomase03@gmail.com">
-    <img src="https://img.shields.io/badge//Rahul Somase-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:rakeshgudur7420@gmail.com">
+    <img src="https://img.shields.io/badge//Rakesh Gudur-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
 </div>
@@ -23,17 +23,17 @@
 
 >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulsomase&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulsomase" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakeshGudur&label=Profile%20views&color=0e75b6&style=flat" alt="RakeshGudur" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rahulsomase](https://github.com/Rahulsomase)
+- 👨‍💻 All of my projects are available at [https://github.com/Rakesh7420](https://github.com/Rakesh7420)
 
 - 💬 Ask me about **JAVA**
 
-- 📫 How to reach me **rahulsomase03@gmail.com**
+- 📫 How to reach me **rakeshgudur7420@gmail.com**
 
 - ⚡ Fun fact **I watch the funny videos often.**
 
-- 🎯 Hobbies :**coding📕 | Cricket | Physical fitness👊**
+- 🎯 Hobbies :**coding📕 | Meditation | Physical fitness👊**
 
 - ⚡ Fact :**It's never late to get started🫀:**
 
