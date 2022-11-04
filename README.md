@@ -1,16 +1,82 @@
-<h1 align="center">Hi 👋, I'm Rakesh Gudur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Rakesh Gudur...
+</h1>                 
+<h2 align="center">
+  💻 Software Developer
+</h2>
+
+ <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
+<!-- Adding Social Buttons -->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rakesh-gudur-a73b59179/">
+    <img src="https://img.shields.io/badge/Rakesh Gudur-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:rakeshgudur7420@gmail.com">
+    <img src="https://img.shields.io/badge//Rakesh Gudur-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+</div>
+
+<br> <br>
+
+>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakeshGudur&label=Profile%20views&color=0e75b6&style=flat" alt="RakeshGudur" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Rakesh7420](https://github.com/Rakesh7420)
 
 - 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **rakeshgudur7420@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-t-l9HwsEu0qEXKRCjFiQOThfvOWYpgZ/view?usp=share_link](https://drive.google.com/file/d/1-t-l9HwsEu0qEXKRCjFiQOThfvOWYpgZ/view?usp=share_link)
+- ⚡ Fun fact **I watch the funny videos often.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakeshgudur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakeshgudur" height="30" width="40" /></a>
+- 🎯 Hobbies :**coding📕 | Meditation | Physical fitness👊**
+
+- ⚡ Fact :**It's never late to get started🫀:**
+
+</br>
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="center"> -->
+
+## 🛠 My Toolkit :
+
+<div>
+
+ <!-- [![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,git,heroku,MongoDb,nodejs,redux)](https://skills.thijs.gg) -->
+<p margin-top="2rem">
+
+<a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
+<a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Springboot-007acc?style=for-the-badge&labelColor=black&logo=springboot&logoColor=007acc" alt="Spring Boot"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-MySQL-609857?style=for-the-badge&labelColor=black&logo=Mysqk&logoColor=609857" alt="MY-SQL"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Hibernate-000000?style=for-the-badge&labelColor=black&logo=hibernate&logoColor=2361DAFB" alt="Hibernate"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=white" alt="Heroku"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<br /><br />
+
+## 🎯Trophy & 📈Stats :
+
+| [![trophy](https://github-profile-trophy.vercel.app/?username=Rahulsomase)](https://github.com/RakeshGudur/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshGudur&layout=compact)](https://github.com/RakeshGudur/github-readme-stats) |
+| :-------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+| ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakeshGudur&show_icons=true&theme=dark) | ![Rakesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakeshGudur&theme=dark) |
+| :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+
+<br /><br />
+
+</div>
+
+<!---
+Rahulsomase/Rahulsomase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
