@@ -156,7 +156,7 @@ section .title::after {
 }
 
 .navbar.sticky .menu li a {
-  color: #000;
+  color: white;
 }
 
 /* menu btn styling */
