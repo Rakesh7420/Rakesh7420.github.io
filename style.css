@@ -947,3 +947,8 @@ footer span a:hover {
     line-height: 38px;
   }
 }
+
+#phone {
+  width: 6%;
+  height: 30%;
+}
