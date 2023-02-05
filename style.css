@@ -638,7 +638,7 @@ section .title::after {
 
 .card1 img {
   width: 32%;
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 
@@ -652,9 +652,10 @@ section .title::after {
 
 .cardcal {
   background-color: white;
+  /* height: 500px; */
   /* box-shadow: rgba(19, 229, 113, 0.918) 0px 1px 2px 0px,
     rgba(5, 94, 33, 0.918) 0px 1px 3px 1px; */
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 /* contact section styling */
