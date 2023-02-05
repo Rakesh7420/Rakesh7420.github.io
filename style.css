@@ -960,3 +960,13 @@ footer span a:hover {
   height: 160px;
   border: 1px solid green;
 }
+
+#welcome {
+
+  color: #9ACD32;
+
+  font-size: 23px;
+
+  display: none;
+
+}
