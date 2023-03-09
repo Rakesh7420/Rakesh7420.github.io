@@ -105,7 +105,7 @@ section .title::after {
 
 .navbar.sticky {
   padding: 15px 0;
-  background: rgb(46, 113, 171);
+  background: #5B4B6B;
 }
 
 .navbar .max-width {
@@ -201,7 +201,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("img/laptop-computer-dark-room.jpg") no-repeat center;
+  background: url("img/background_img.jpg") no-repeat center;
   background-color: #111;
   height: 100vh;
   color: #fff;
@@ -242,14 +242,14 @@ section .title::after {
 
 .home .home-content a {
   display: inline-block;
-  background: rgb(53, 105, 147);
+  background: #5B4B6B;
   color: #fff;
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
   font-weight: 400;
   border-radius: 6px;
-  border: 2px solid #ffcc00;
+  /* border: 2px solid #ffcc00; */
   transition: all 0.3s ease;
 }
 
