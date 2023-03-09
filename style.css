@@ -328,7 +328,7 @@ section .title::after {
 .about .title::after,
 .skills .title::after,
 .calender .title::after {
-  background-image: url("https://images.unsplash.com/photo-1523878288860-7ad281611901?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80");
+  background-image: url("https://i.pinimg.com/originals/6a/d4/10/6ad410326a494ec2b5eeea6a7a1334ee.jpg");
   color: red;
 }
 
