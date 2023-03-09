@@ -650,6 +650,12 @@ section .title::after {
   margin-bottom: 3%;
 }
 
+#bus {
+  height: 125px;
+  background-color: #3A8F9E;
+  border: #ffcc00;
+}
+
 .cardcal {
   background-color: white;
   /* height: 500px; */
@@ -958,7 +964,7 @@ footer span a:hover {
 }
 
 #cab5 {
-  height: 160px;
+  height: 130px;
   border: 1px solid green;
 }
 
