@@ -277,7 +277,7 @@ section .title::after {
 }
 
 .about .about-content .left img {
-  height: 450px;
+  height: 500px;
   width: 400px;
   object-fit: cover;
   border-radius: 200px 200px;
@@ -976,4 +976,8 @@ footer span a:hover {
 
   display: none;
 
+}
+
+#photo {
+  padding-top: 20px;
 }
