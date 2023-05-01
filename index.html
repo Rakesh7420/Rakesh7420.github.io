@@ -22,7 +22,7 @@
     <div class="scroll-up-btn">
         <i class="fas fa-angle-up"></i>
     </div>
-    <nav class="navbar">
+    <nav id="nav-menu" class="navbar">
         <div class="max-width">
             <div class="logo"><a href="#">Welcome<span></span></a></div>
             <ul class="menu">
@@ -34,7 +34,7 @@
               
                 <li><a href="#contact" class="menu-btn">Contact</a></li>
                 <!-- <li><a  target="_blank" href="https://drive.google.com/file/d/1-t-l9HwsEu0qEXKRCjFiQOThfvOWYpgZ/view?usp=share_link"  class="menu-btn">Resume</a></li> -->
-                <li><a href="./fw19_0398-Rakesh-Gudur-Resume.pdf" target="_blank" download=""  onclick="window.open('https://drive.google.com/file/d/1-t-l9HwsEu0qEXKRCjFiQOThfvOWYpgZ/view?usp=share_link')"   class="menu-btn">Resume</a></li>
+                <li><a class="nav-link resume" id="resume-button-1" href="./fw19_0398-Rakesh-Gudur-Resume.pdf" target="_blank" download=""  onclick="window.open('https://drive.google.com/file/d/1-t-l9HwsEu0qEXKRCjFiQOThfvOWYpgZ/view?usp=share_link')"   class="menu-btn">Resume</a></li>
 
             </ul>
             <div class="menu-btn">
@@ -44,28 +44,28 @@
     </nav>
 
     <!-- home section start -->
-    <section class="home" id="home">
+    <section class="nav-link home" id="home">
         <div class="max-width">
             <div class="home-content">
                 <div class="text-1">Hello, my name is</div>
                 <div class="text-2">Rakesh Gudur</div>
                 <div class="text-3">And I'm a <span class="typing"></span></div>
-                <a href="./fw19_0398-Rakesh-Gudur-Resume.pdf" target="_blank" download=""  onclick="window.open('https://drive.google.com/file/d/1-t-l9HwsEu0qEXKRCjFiQOThfvOWYpgZ/view?usp=share_link')" download target="_blank">Resume</a>
+                <a id="resume-button-2" href="./fw19_0398-Rakesh-Gudur-Resume.pdf" target="_blank" download=""  onclick="window.open('https://drive.google.com/file/d/1-t-l9HwsEu0qEXKRCjFiQOThfvOWYpgZ/view?usp=share_link')" download target="_blank">Resume</a>
             </div>
         </div>
     </section>
 
     <!-- about section start -->
-    <section class="about" id="about">
+    <section class="nav-link about section" id="about ">
         <div class="max-width">
             <h2 class="title">About me</h2>
             <div class="about-content">
-                <div class="column left">
+                <div class="home-img column left">
                     <img id="photo" src="img/photo.JPG" alt="">
                 </div>
                 <div class="column right">
-                    <div class="text">I'm Rakesh Gudur and I'm a <span class="typing-2"></span></div>
-                    <p>An Aspiring  JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</p>
+                    <div class="user-detail-name text">I'm Rakesh Gudur and I'm a <span class="typing-2"></span></div>
+                    <p class="user-detail-intro">An Aspiring  JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</p>
                     <!-- <a href="#">Download CV</a> -->
                 </div>
             </div>
@@ -74,7 +74,7 @@
 
    
     <!-- skills section start -->
-    <section class="skills" id="skills">
+    <section class="nav-link skills" id="skills">
         <div class="max-width">
             <h2 class="title">My skills</h2>
             <div class="skills-content">
@@ -82,48 +82,48 @@
 
                     
 
-                    <div class="skills-images">
-                        <img src="https://user-images.githubusercontent.com/58034490/141353054-2350801b-ca74-40c5-87b8-c8e3cb909928.png" alt="html">
+                    <div class="skills-card">
+                        <img class="skills-card-img" src="https://user-images.githubusercontent.com/58034490/141353054-2350801b-ca74-40c5-87b8-c8e3cb909928.png" alt="html">
                        
                     </div>
 
                     
-                    <div class="skills-images">
-                        <img src="https://user-images.githubusercontent.com/58034490/141353050-4624e02a-84d4-4a97-a533-fd8bae9fd418.png" alt="">
+                    <div class="skills-card">
+                        <img class="skills-card-img" src="https://user-images.githubusercontent.com/58034490/141353050-4624e02a-84d4-4a97-a533-fd8bae9fd418.png" alt="">
                        
                     </div>
 
                     
-                    <div class="skills-images">
-                        <img src="https://miro.medium.com/max/1400/0*Rplsn6TJYurdICZB.jpg" alt="sb">
+                    <div class="skills-card">
+                        <img class="skills-card-img" src="https://miro.medium.com/max/1400/0*Rplsn6TJYurdICZB.jpg" alt="sb">
                        
                     </div>
 
 
-                    <div class="skills-images">
-                        <img src="https://user-images.githubusercontent.com/58034490/141353058-36c5ef97-420a-4bcf-b871-7ef1cc262e26.png" alt="mysql">
+                    <div class="skills-card">
+                        <img class="skills-card-img" src="https://user-images.githubusercontent.com/58034490/141353058-36c5ef97-420a-4bcf-b871-7ef1cc262e26.png" alt="mysql">
 
                     </div>
                 </div>
                 <div class="column right">
-                    <div class="skills-images">
-                        <img src="https://user-images.githubusercontent.com/58034490/141354056-7bf12bcc-6ebc-4104-bd4e-d5e24db293f5.gif" alt="js">
+                    <div class="skills-card">
+                        <img class="skills-card-img" src="https://user-images.githubusercontent.com/58034490/141354056-7bf12bcc-6ebc-4104-bd4e-d5e24db293f5.gif" alt="js">
                     </div>
 
                     
                   
 
-                    <div class="skills-images">
-                        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java">
+                    <div class="skills-card">
+                        <img class="skills-card-img" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java">
                        
                     </div>
 
-                    <div class="skills-images">
-                        <img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" alt="">
+                    <div class="skills-card">
+                        <img class="skills-card-img" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3.jpg" alt="">
                     </div>
 
-                    <div class="skills-images">
-                        <img src="img/GitHub-Mark.png" alt="aws">
+                    <div class="skills-card">
+                        <img class="skills-card-img" src="img/GitHub-Mark.png" alt="aws">
                     </div>
 
                 </div>
@@ -132,57 +132,57 @@
     </section>
 
     <!-- project section start -->
-    <section class="project" id="project">
+    <section class="nav-link projects" id="projects">
         <div class="max-width">
             <h2 class="title">Projects</h2>
             <div class="carousel owl-carousel">
 
-                <div class="card">
+                <div class="project-card">
                     <div class="box">
                         <img id="cab5" src="img/cab5.jpg" alt="">
-                        <div class="text">Online Cab Booking Application</div>
-                        <p class="projectPara">It is an application where user can book the cab, trip and assign driver.  </p>
-                        <p class="techStack">Tech Stack:Mysql, Java, SpringBoot, Hibernate</p>
+                        <div class="project-title text">Online Cab Booking Application</div>
+                        <p class="project-description">It is an application where user can book the cab, trip and assign driver.  </p>
+                        <p class="project-tech-stack">Tech Stack:Mysql, Java, SpringBoot, Hibernate</p>
                         <div class="repo-links">
-                            <div class="repo-div">
+                            <div class="project-github-link">
                                 <span>  <a href="https://github.com/yatinkumar01/slippery-holiday-4708" target="_blank"> Git Repo </a></span>
                             </div>
-                            <div class="demo-div">
+                            <div class="project-deployed-link">
                                 <span> <a href="https://drive.google.com/file/d/1WXCEoXczCgN5dJRTDz18hJfhHFi6O23M/view?usp=share_link" target="_blank">  Video  </a></span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="card">
+                <div class="project-card">
                     <div class="box">
                         <img  id="bus" src="img/bus_ticket_reservation.png" alt="">
-                        <div class="text">Bus Tickect Reservation System</div>
-                        <p class="projectPara">A console based application to cater the needs of the passenger who are travelling to one point to another.</p>
-                        <p class="techStack">Java, MySql, JDBC, Github </p>
+                        <div class="project-title text">Bus Tickect Reservation System</div>
+                        <p class="project-description">A console based application to cater the needs of the passenger who are travelling to one point to another.</p>
+                        <p class="project-tech-stack">Java, MySql, JDBC, Github </p>
                         <div class="repo-links">
-                            <div class="repo-div">
+                            <div class="project-github-link">
                                 <span>  <a href="https://github.com/Rakesh7420/brief-haircut-1894" target="_blank"> Git Repo </a></span>
                             </div>
-                            <div class="demo-div">
+                            <div class="project-deployed-link">
                                 <span> <a href="https://drive.google.com/drive/folders/1NukA7Vk5Y4ecIasbFkdwPq6LmOQqnL02" target="_blank">  Video </a></span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="card">
+                <div class="project-card">
                     <div class="box">
                         <img src="img/reliance.png" alt="">
-                        <div class="text">Reliance Digital</div>
-                         <p class="projectPara">About
+                        <div class="project-title text">Reliance Digital</div>
+                         <p class="project-description">About
                             It is an Online Shopping Website to purchase Electronic, Home appliances,  etc.</p>
-                        <p class="techStack">Tech Stack: HTML, CSS, JavaScript</p> 
+                        <p class="project-tech-stack">Tech Stack: HTML, CSS, JavaScript</p> 
                         <div class="repo-links">
-                            <div class="repo-div">
+                            <div class="project-github-link">
                                 <span>  <a href="https://github.com/Rakesh7420/Reliance-Project" target="_blank"> Git  </a></span>
                             </div>
-                            <div class="demo-div">
+                            <div class="project-deployed-link">
                                 <!-- <i class="fa fa-mobile-alt"></i> -->
                                 <span> <a href="https://thriving-ganache-00aa15.netlify.app/" target="_blank">  Live   </a></span>
                             </div>
@@ -190,34 +190,34 @@
                     </div>
                 </div>
 
-                <div class="card">
+                <div class="project-card">
                     <div class="box">
                         <img src="img/kissflow.png" alt="">
-                        <div class="text">Kissflow</div>
-                        <p class="projectPara">Kissflow is simple for business users to create powerful apps, processes, or case boards that are natively integrated and flexible.</p>
-                        <p class="techStack">Tech Stack: HTML, CSS, JavaScript</p>
+                        <div class="project-title text">Kissflow</div>
+                        <p class="project-description">Kissflow is simple for business users to create powerful apps, processes, or case boards that are natively integrated and flexible.</p>
+                        <p class="project-tech-stack">Tech Stack: HTML, CSS, JavaScript</p>
                         <div class="repo-links">
-                            <div class="repo-div">
+                            <div class="project-github-link">
                                 <span>  <a href="https://github.com/Durgashankar001/Kissflow.com-Clone" target="_blank"> Git Repo </a></span>
                             </div>
-                            <div class="demo-div">
+                            <div class="project-deployed-link">
                                 <span> <a href="https://leafy-sable-b9d21f.netlify.app/" target="_blank">  Live Site  </a></span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="card">
+                <div class="project-card">
                     <div class="box">
                         <img src="img/hindustan_news.png" alt="">
-                        <div class="text">Hindustan News</div>
-                        <p class="projectPara">This is an News website where we can see various new sections like toop news, sports news etc.</p>
-                        <p class="techStack">Tech Stack: HTML, CSS, JavaScript</p>
+                        <div class="project-title text">Hindustan News</div>
+                        <p class="project-description">This is an News website where we can see various new sections like toop news, sports news etc.</p>
+                        <p class="project-tech-stack">Tech Stack: HTML, CSS, JavaScript</p>
                         <div class="repo-links">
-                            <div class="repo-div">
+                            <div class="project-github-link">
                                 <span>  <a href="https://github.com/Rakesh7420/interesting-fork-8458" target="_blank"> Git Repo </a></span>
                             </div>
-                            <div class="demo-div">
+                            <div class="project-deployed-link">
                                 <span> <a href="https://sage-fudge-f3257b.netlify.app/" target="_blank">  Live Site  </a></span>
                             </div>
                         </div>
@@ -231,7 +231,7 @@
     </section>
 
     <!-- Github calender Information -->
-    <section class="calender" id="calender">    
+    <section class="react-activity-calendar" id="calender">    
         <div class="max-width">
             <h2 class="title">Github Stats</h2>
             <!-- <a href="https://github.com/kajol/kajol/blob/output/github-contribution-grid-snake.gif"></a> -->
@@ -240,9 +240,9 @@
             <div class="serve-content">
                 <div class="card1">
                     <!-- <img class="gimg1" src="https://github-readme-streak-stats.herokuapp.com/?user=Kajol1106&&theme=tokyonight" alt="gitstats"> -->
-                    <img src="https://github-readme-stats.vercel.app/api?username=Rakesh7420&theme=light&hide_border=false&include_all_commits=true&count_private=false" alt="">
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh7420&theme=light&hide_border=false" alt="">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh7420&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="">
+                    <img class="github-streak-stats" src="https://github-readme-stats.vercel.app/api?username=Rakesh7420&theme=light&hide_border=false&include_all_commits=true&count_private=false" alt="">
+                    <img class="github-streak-card" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh7420&theme=light&hide_border=false" alt="">
+                    <img class="github-streak-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh7420&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="">
         
                 </div>
                     <!-- github calender -->
@@ -255,7 +255,7 @@
     </section>
 
     <!-- contact section start -->
-    <section class="contact" id="contact">
+    <section class="nav-link contact" id="contact">
         <div class="max-width">
             <h2 class="title">Contact me</h2>
             <div class="contact-content">
@@ -263,14 +263,14 @@
                     <div class="text">Get in Touch</div>
                     <p>Got a project? Reach out and let's work together on something exciting. Big or small. Mobile or web.</p>
                     <div class="icons">
-                        <div class="row">
+                        <div class="row" id="contact-email">
                             <a href=" mailto:rakeshvgudur@gmail.com">   <i class="fas fa-envelope"></i> </a>
                             <div class="info">
                                 <div class="head"></div>
                                 <div class="sub-title">  <a href="mailto:rakeshvgudur@gmail.com"> rakeshvgudur@gmail.com </a> </div>
                             </div>
                         </div>
-                        <div class="row">
+                        <div class="row" id="contact-phone">
                             <!-- <img id="phone" src="img/phone.png" alt=""> -->
                             <i class="fas fa-mobile-alt"></i>
                             <div class="info">
@@ -278,7 +278,7 @@
                                 <div class="sub-title">  <a href="" target="_blank">7420920058</a> </div>
                             </div>
                         </div>
-                        <div class="row">
+                        <div class="row" id="contact-linkedin">
                              <a href="https://www.linkedin.com/in/rakesh-gudur-a73b59179/" target="_blank"> <i class="fab fa-linkedin"></i> </a>
                             <div class="info">
                                 <!-- <div class="head">Address</div> -->
@@ -288,7 +288,7 @@
 
                        
 
-                        <div class="row">
+                        <div class="row" id="contact-github ">
                              <a href="https://github.com/Rakesh7420" target="_blank"> <i class="fab fa-github"></i> </a>
                             <div class="info">
                                 <!-- <div class="head">Email</div> -->

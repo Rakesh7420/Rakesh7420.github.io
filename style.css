@@ -44,10 +44,10 @@ section {
 .about,
 .services,
 .skills,
-.project,
+.projects,
 .contact,
 footer,
-.calender {
+.react-activity-calendar {
   font-family: "Poppins", sans-serif;
 }
 
@@ -261,7 +261,7 @@ section .title::after {
 /* about section styling */
 .about,
 .skills,
-.calender {
+.react-activity-calendar {
 
   background-size: cover;
   background-attachment: fixed;
@@ -270,7 +270,7 @@ section .title::after {
 
 .about .title::after,
 .skills .title::after,
-.calender .title::after {}
+.react-activity-calendar .title::after {}
 
 .about .about-content .left {
   width: 45%;
@@ -327,34 +327,34 @@ section .title::after {
 
 .about .title::after,
 .skills .title::after,
-.calender .title::after {
+.react-activity-calendar .title::after {
   background-image: url("https://images.unsplash.com/photo-1523878288860-7ad281611901?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80");
   color: red;
 }
 
 /* services section styling */
 .services,
-.project,
+.projects,
 .contact {
   color: black;
   background: rgb(154, 194, 208);
 }
 
 .services .title::before,
-.project .title::before,
+.projects .title::before,
 .contact .title::before {
 
   background: white;
 }
 
 .services .title::after,
-.project .title::after,
+.projects .title::after,
 .contact .title::after {
   background: white;
   /* content: "what i provide"; */
 }
 
-.services .serv-content .card {
+.services .serv-content .project-card {
   width: calc(33% - 20px);
   background: white;
   text-align: center;
@@ -364,38 +364,38 @@ section .title::after {
   transition: all 0.3s ease;
 }
 
-.services .serv-content .card:hover {
+.services .serv-content .project-card:hover {
   background: #3A8F9E;
   color: white;
   /* change*/
 }
 
-.services .serv-content .card .box {
+.services .serv-content .project-card .box {
   transition: all 0.3s ease;
 }
 
-.services .serv-content .card:hover .box {
+.services .serv-content .project-card:hover .box {
   transform: scale(1.05);
 }
 
-.services .serv-content .card i {
+.services .serv-content .project-card i {
   font-size: 50px;
   color: black;
   transition: color 0.3s ease;
 }
 
-.services .serv-content .card:hover i {
+.services .serv-content .project-card:hover i {
   color: white;
 }
 
-.services .serv-content .card .text {
+.services .serv-content .project-card .text {
   font-size: 25px;
   font-weight: 500;
   margin: 10px 0 7px 0;
 }
 
 /* skills section styling */
-.skills-images img {
+.skills-card img {
   height: 150px;
   width: 150px;
   /* object-fit: cover; */
@@ -500,11 +500,11 @@ section .title::after {
 }
 
 /* project section styling */
-.project .title::after {
+.projects .title::after {
   /* content: "see my work"; */
 }
 
-.project .carousel .card {
+.projects .carousel .project-card {
   background: white;
   border-radius: 6px;
   padding: 25px 35px;
@@ -513,13 +513,13 @@ section .title::after {
   transition: all 0.3s ease;
 }
 
-.project .carousel .card:hover {
+.s .carousel .project-card:hover {
   background: #3a8f9e;
   color: white;
   /* change */
 }
 
-.project .carousel .card .box {
+.projects .carousel .project-card .box {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -527,11 +527,11 @@ section .title::after {
   transition: all 0.3s ease;
 }
 
-.project .carousel .card:hover .box {
+.projects .carousel .project-card:hover .box {
   transform: scale(1.05);
 }
 
-.project .carousel .card .text {
+.projects .carousel .project-card .text {
   font-size: 25px;
   font-weight: 500;
   margin: 10px 0 7px 0;
@@ -546,7 +546,7 @@ section .title::after {
   /* border: 2px solid wheat; */
 }
 
-.repo-div {
+.project-github-link {
   display: flex;
   width: 35%;
   border: 1px solid black;
@@ -554,7 +554,7 @@ section .title::after {
   align-items: center;
 }
 
-.demo-div {
+.project-deployed-link {
   display: flex;
   width: 35%;
   border: 1px solid black;
@@ -562,16 +562,16 @@ section .title::after {
   align-items: center;
 }
 
-.demo-div a,
-.repo-div a,
-.repo-div a:link,
-.demo-div a:link,
-.techStack {
+.project-deployed-link a,
+.project-github-link a,
+.project-github-link a:link,
+.project-deployed-link a:link,
+.project-tech-stack {
   text-decoration: none;
   color: bla;
 }
 
-.project .carousel .card img {
+.projects .carousel .project-card img {
   height: 200%;
   width: 90%;
   object-fit: cover;
@@ -580,7 +580,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 
-.project .carousel .card:hover img {
+.projects .carousel .project-card:hover img {
   border-color: #fff;
   color: white;
 }
@@ -610,14 +610,14 @@ section .title::after {
   background: #ffcc00 !important;
 }
 
-.skills-images {
+.skills-card {
   width: 120px;
   height: 120px;
 }
 
 
 /* github section styling */
-.calender .title::after {
+.react-activity-calendar .title::after {
   /* content: "calender"; */
 }
 
@@ -887,7 +887,7 @@ footer span a:hover {
     flex: 100%;
   }
 
-  .services .serv-content .card {
+  .services .serv-content .project-card {
     width: calc(50% - 10px);
     margin-bottom: 20px;
   }
@@ -916,7 +916,7 @@ footer span a:hover {
     font-size: 20px;
   }
 
-  .services .serv-content .card {
+  .services .serv-content .project-card {
     width: 100%;
   }
 }
@@ -931,6 +931,7 @@ footer span a:hover {
   }
 
   .about .about-content .right .text,
+
   .skills .skills-content .left .text {
     font-size: 19px;
   }
